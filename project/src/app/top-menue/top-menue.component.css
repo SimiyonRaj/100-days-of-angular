@@ -1,0 +1,14 @@
+.sim-nav-bar, .sim-nav-bar nav ul { 
+    background:green;
+}
+.sim-nav-bar nav ul li a { 
+    color:#fff;
+}
+.sim-nav-bar .search{
+    margin-top: 15px; 
+}
+.sim-nav-bar .search .input-group-text{
+    cursor: pointer;
+    user-select: none;
+    -moz-user-select: none;
+}
